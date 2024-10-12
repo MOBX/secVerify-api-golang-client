@@ -16,7 +16,7 @@ import (
 )
 
 var (
-	url       = "http://identify.verify.mob.com/auth/auth/sdkClientFreeLogin"
+	url       = "http://identify-auth.zztfly.com/auth/auth/sdkClientFreeLogin"
 	appkey    = ""
 	appSecret = ""
 	token     = "59616292321333248"
